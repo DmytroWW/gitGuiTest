@@ -15,3 +15,4 @@ Fight the fear, embrace the fight
 Shine your light through darkest night
 
 feature commit 1
+feature commit 2
